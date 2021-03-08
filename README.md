@@ -1,6 +1,5 @@
 # Anitah-Kitchen
 Anitas_kitchen
-# Favourite Band
 ## Description
 This is a website that shows and elaborate my favourite band
 ### Setup
